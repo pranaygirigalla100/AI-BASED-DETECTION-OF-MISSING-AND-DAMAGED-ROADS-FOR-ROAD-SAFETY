@@ -29,8 +29,6 @@ Project/
 │── requirements.txt       # Python dependencies
 │── Dockerfile             # Docker image configuration
 │── docker-compose.yml     # (if used) multi-container setup
-│── uploads/                # Stores user-uploaded images
-│── runs/                   # Stores model inference outputs
 │── dataset/                 # Training/validation/test dataset
 │── README.md
 ```
