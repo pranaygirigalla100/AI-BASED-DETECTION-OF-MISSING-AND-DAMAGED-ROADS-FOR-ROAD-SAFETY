@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Cracks', 'Potholes']
+
+roboflow:
+  workspace: girigalla-pranay-raj
+  project: ai_road
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/girigalla-pranay-raj/ai_road/dataset/1
